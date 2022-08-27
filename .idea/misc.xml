@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Mark John Paul/AndroidStudioProjects/MONTON_MARK_JOHN_PAUL/Registration/app/src/main/res/layout/activity_main.xml" value="0.1598731884057971" />
+        <entry key="..\:/Mark John Paul/AndroidStudioProjects/MONTON_MARK_JOHN_PAUL/app/src/main/res/drawable/custom_button.xml" value="0.22179487179487178" />
+        <entry key="..\:/Mark John Paul/AndroidStudioProjects/MONTON_MARK_JOHN_PAUL/app/src/main/res/drawable/custom_input.xml" value="0.22179487179487178" />
+        <entry key="..\:/Mark John Paul/AndroidStudioProjects/MONTON_MARK_JOHN_PAUL/app/src/main/res/drawable/ic_arrow_back.xml" value="0.22179487179487178" />
+        <entry key="..\:/Mark John Paul/AndroidStudioProjects/MONTON_MARK_JOHN_PAUL/app/src/main/res/drawable/ic_email.xml" value="0.22179487179487178" />
+        <entry key="..\:/Mark John Paul/AndroidStudioProjects/MONTON_MARK_JOHN_PAUL/app/src/main/res/drawable/ic_lock.xml" value="0.22179487179487178" />
+        <entry key="..\:/Mark John Paul/AndroidStudioProjects/MONTON_MARK_JOHN_PAUL/app/src/main/res/drawable/ic_person.xml" value="0.22179487179487178" />
+        <entry key="..\:/Mark John Paul/AndroidStudioProjects/MONTON_MARK_JOHN_PAUL/app/src/main/res/layout/activity_home.xml" value="0.17300724637681159" />
+        <entry key="..\:/Mark John Paul/AndroidStudioProjects/MONTON_MARK_JOHN_PAUL/app/src/main/res/layout/activity_main.xml" value="0.264" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
